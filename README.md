@@ -1,2 +1,2 @@
-(🔗 Link to project)["https://lorem-generator.vercel.app/"]
+[🔗 Link to project](https://lorem-generator.vercel.app/)
  
